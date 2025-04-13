@@ -1,0 +1,62 @@
+[
+  {
+    "index": 1,
+    "category": "Tone Match",
+    "question": "Rewrite this sentence in a Gen-Z tone: 'We are currently experiencing technical difficulties.'",
+    "human_answer": "'Bruh the servers dipped 💀 hold up, we’re fixing it.'"
+  },
+  {
+    "index": 2,
+    "category": "Politeness Check",
+    "question": "Your boss says, 'We’ll need that report by end of day.' Respond with a polite and professional tone.",
+    "human_answer": "'Absolutely, I’ll make sure it’s ready by then. Let me know if you need anything else.'"
+  },
+  {
+    "index": 3,
+    "category": "Social Media Vibe",
+    "question": "Write a founder-style tweet announcing a side project that got unexpectedly popular.",
+    "human_answer": "'Launched a tiny tool over the weekend. No marketing. 12k users in 48 hours. The internet is wild.'"
+  },
+  {
+    "index": 4,
+    "category": "Aesthetic Tone",
+    "question": "Describe a living room with a brutalist vibe.",
+    "human_answer": "'Exposed concrete walls, steel beams, sharp angles, and a monochrome couch sitting under a single hanging bulb.'"
+  },
+  {
+    "index": 5,
+    "category": "Flirt vs Friendly",
+    "question": "Someone texts you: 'You looked really good today 👀' — reply in a way that sounds flirty.",
+    "human_answer": "'Omg you noticed? 😳 maybe I should dress like that more often when you’re around.'"
+  },
+  {
+    "index": 6,
+    "category": "Corporate to Casual",
+    "question": "Rewrite this corporate sentence in a more casual tone: 'We appreciate your patience during this time.'",
+    "human_answer": "'Thanks for hanging in there with us — really appreciate it!'"
+  },
+  {
+    "index": 7,
+    "category": "Sarcasm Detection",
+    "question": "Identify the tone: 'Oh great, another Monday. Just what I needed.'",
+    "human_answer": "'Sarcastic.'"
+  },
+  {
+    "index": 8,
+    "category": "Emoji Appropriateness",
+    "question": "Add emojis to this sentence to give it a warm and friendly vibe: 'Happy Friday everyone!'",
+    "human_answer": "'Happy Friday everyone! ☀️😊🎉'"
+  },
+  {
+    "index": 9,
+    "category": "Passive-aggressive Detection",
+    "question": "What’s the tone of this message? 'Thanks *so much* for waiting until the last minute to tell me.'",
+    "human_answer": "'Passive-aggressive.'"
+  },
+  {
+    "index": 10,
+    "category": "Rewrite Tone",
+    "question": "Rewrite this to sound more confident: 'I think this could maybe work, but I'm not sure.'",
+    "human_answer": "'This can work — we just need to execute it right.'"
+  }
+]
